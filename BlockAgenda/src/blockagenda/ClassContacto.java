@@ -10,5 +10,5 @@ package blockagenda;
  * @author Ruben
  */
 public class ClassContacto {
-    
+    njbnjlnl
 }
